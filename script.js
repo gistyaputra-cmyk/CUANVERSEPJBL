@@ -18,7 +18,7 @@ let products=[
 ["E-Book Study Hacks",10000,"https://i.ibb.co.com/RppV4BKN/Study-Hacks.jpg","Belajar cerdas, bukan belajar keras."],
 ["E-Book Materi Cerpen",10000,"https://i.ibb.co.com/SXxhGqdx/Whats-App-Image-2026-04-21-at-13-01-15.jpg","Belajar materi cerpen lebih mudah dengan E-Book Materi Cerpen."],
 ["E-Book Smart Kids",15000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Belajar seru dalam satu genggaman."],
-["E-Book Sejarah Kemerdekaan",10000,"ttps://i.ibb.co.com/BHYKQBSW/Whats-App-Image-2026-04-21-at-20-18-02.jpg","Belajar Sejarah kemerdekaan lengkap lebih praktis dengan E-book ini."],
+["E-Book Sejarah Kemerdekaan",10000,"https://i.ibb.co.com/BHYKQBSW/Whats-App-Image-2026-04-21-at-20-18-02.jpg","Belajar Sejarah kemerdekaan lengkap lebih praktis dengan E-book ini."],
 ["E-Book Survival Guide",10000,"https://i.ibb.co.com/Wv1cw5HP/Survival-Guide.jpg","Tips & Trik Nabung ala anak SMA biar gak tekor"],
 ["Template Infografis Premium",10000,"https://i.ibb.co.com/C3rxjW19/1-20260421-132923-0001.jpg","Butuh infografis cepat, rapi, dan profesional? Kami siap bantu dari konsep sampai jadi!."],
 ["Template ID-Card keren",10000,"https://i.ibb.co.com/Tx1NJZ22/2-20260421-115811-0000.jpg","Mulai dari harga terjangkau, desain ID Card siap pakai untuk semua kebutuhan & bisa request tema!."],
