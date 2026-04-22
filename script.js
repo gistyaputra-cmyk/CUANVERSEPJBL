@@ -24,7 +24,7 @@ let products=[
 ["Template ID-Card keren",10000,"https://i.ibb.co.com/Tx1NJZ22/2-20260421-115811-0000.jpg","Mulai dari harga terjangkau, desain ID Card siap pakai untuk semua kebutuhan & bisa request tema!."],
 ["Template Poster Digital",10000,"https://i.ibb.co.com/hr6jZKx/4-20260421-121321-0000.jpg","Bikin poster yang nggak cuma dilihat, tapi juga diingat 👀? just call postech aja!."],
 ["Template PPT Digital",10000,"https://i.ibb.co.com/xqYhxG16/5-20260421-132923-0000.jpg","Biar nggak cuma baca slide, tapi juga bikin audiens fokus!."],
-["E-Book Sejarah: Jika Indonesia Tanpa Soekarno",75000,"https://i.ibb.co.com/MxzJJ87J/Whats-App-Image-2026-04-21-at-20-48-12.jpg","Bukan sekadar sejarah, tapi cara baru memahami Indonesia."],
+["E-Book Sejarah: Jika Indonesia Tanpa Soekarno",10000,"https://i.ibb.co.com/MxzJJ87J/Whats-App-Image-2026-04-21-at-20-48-12.jpg","Bukan sekadar sejarah, tapi cara baru memahami Indonesia."],
 ["Video Editing Pack",95000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Asset editing video lengkap."],
 ["Music Pack",70000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Musik bebas copyright."],
 ["Icon Set",30000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Icon modern untuk UI."],
