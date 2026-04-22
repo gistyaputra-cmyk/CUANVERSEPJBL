@@ -26,10 +26,10 @@ let products=[
 ["Template PPT Digital",10000,"https://i.ibb.co.com/xqYhxG16/5-20260421-132923-0000.jpg","Biar nggak cuma baca slide, tapi juga bikin audiens fokus!."],
 ["E-Book Sejarah: Jika Indonesia Tanpa Soekarno",10000,"https://i.ibb.co.com/MxzJJ87J/Whats-App-Image-2026-04-21-at-20-48-12.jpg","Bukan sekadar sejarah, tapi cara baru memahami Indonesia."],
 ["E-book Mewarnai Digital PDF Printable",10000,"https://i.ibb.co.com/SXMShRBJ/thumbnail.jpg","Aktivitas Seru yang bermanfaat untuk Si Kecil."],
-["Template Scarpbook lucu Sweetstrip",7000,"https://i.ibb.co.com/YYG54x0/1.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."],
-["Template Scarpbook lucu Sweetstrip",7000,"https://i.ibb.co.com/k6hXPYmd/Tanpa-judul-Konten-Instagram-45.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."],
-["Template Scarpbook lucu Sweetstrip",7000,"https://i.ibb.co.com/BV56Dv0g/3.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."],
-["Template Scarpbook lucu Sweetstrip",7000,"https://i.ibb.co.com/hRfBMB15/Tanpa-judul-Konten-Instagram-45-1.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."]
+["Template Scarpbook lucu Sweetstrip #A",7000,"https://i.ibb.co.com/YYG54x0/1.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."],
+["Template Scarpbook lucu Sweetstrip #B",7000,"https://i.ibb.co.com/k6hXPYmd/Tanpa-judul-Konten-Instagram-45.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."],
+["Template Scarpbook lucu Sweetstrip #C",7000,"https://i.ibb.co.com/BV56Dv0g/3.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."],
+["Template Scarpbook lucu Sweetstrip #D",7000,"https://i.ibb.co.com/hRfBMB15/Tanpa-judul-Konten-Instagram-45-1.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."]
 ];
 
 let list=document.getElementById("productList");
