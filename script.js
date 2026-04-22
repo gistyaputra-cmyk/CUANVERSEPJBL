@@ -25,11 +25,11 @@ let products=[
 ["Template Poster Digital",10000,"https://i.ibb.co.com/hr6jZKx/4-20260421-121321-0000.jpg","Bikin poster yang nggak cuma dilihat, tapi juga diingat 👀? just call postech aja!."],
 ["Template PPT Digital",10000,"https://i.ibb.co.com/xqYhxG16/5-20260421-132923-0000.jpg","Biar nggak cuma baca slide, tapi juga bikin audiens fokus!."],
 ["E-Book Sejarah: Jika Indonesia Tanpa Soekarno",10000,"https://i.ibb.co.com/MxzJJ87J/Whats-App-Image-2026-04-21-at-20-48-12.jpg","Bukan sekadar sejarah, tapi cara baru memahami Indonesia."],
-["Video Editing Pack",95000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Asset editing video lengkap."],
-["Music Pack",70000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Musik bebas copyright."],
-["Icon Set",30000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Icon modern untuk UI."],
-["Landing Page Kit",85000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Template landing page profesional."],
-["AI Tools Bundle",200000,"https://i.ibb.co.com/35RRnFWv/Desain-tanpa-judul-20260420-113329-0000-jpg-1.jpg","Tools AI untuk produktivitas."]
+["E-book Mewarnai Digital PDF Printable",10000,"https://i.ibb.co.com/SXMShRBJ/thumbnail.jpg","Aktivitas Seru yang bermanfaat untuk Si Kecil."],
+["Template Scarpbook lucu Sweetstrip",7000,"https://i.ibb.co.com/YYG54x0/1.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."],
+["Template Scarpbook lucu Sweetstrip",7000,"https://i.ibb.co.com/k6hXPYmd/Tanpa-judul-Konten-Instagram-45.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."],
+["Template Scarpbook lucu Sweetstrip",7000,"https://i.ibb.co.com/BV56Dv0g/3.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."],
+["Template Scarpbook lucu Sweetstrip",7000,"https://i.ibb.co.com/hRfBMB15/Tanpa-judul-Konten-Instagram-45-1.jpg","Punya banyak foto tapi bingung postingnya? Swettstrip akan jadi solusi terbaikmu."]
 ];
 
 let list=document.getElementById("productList");
